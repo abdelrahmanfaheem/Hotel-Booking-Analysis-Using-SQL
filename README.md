@@ -79,10 +79,3 @@ This repository contains SQL queries for analyzing hotel bookings data. The quer
 21. **Effect of Special Requests on Cancellation Rate**
     - Analyze if bookings with special requests are more likely to be canceled.
 
-## Dataset
-The dataset used for this analysis can be found on Kaggle: [120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-
-## Usage
-To replicate the analysis or explore further insights, you can execute the provided SQL queries on your database containing hotel bookings data.
-
-Feel free to reach out if you have any questions or suggestions!
